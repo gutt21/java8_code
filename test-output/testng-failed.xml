@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Stream_demo.Stream_methode">
+      <class name="Iterator_demo.Iterator_enumertion">
         <methods>
-          <include name="findanyelement"/>
+          <include name="usingString"/>
         </methods>
-      </class> <!-- Stream_demo.Stream_methode -->
+      </class> <!-- Iterator_demo.Iterator_enumertion -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
